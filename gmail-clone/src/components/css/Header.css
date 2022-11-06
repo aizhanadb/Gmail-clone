@@ -1,11 +1,10 @@
-*{
-    margin: 3px;
-}
+
 .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid whitesmoke;
+    margin: 5px;
 }
 
 .header_left{
